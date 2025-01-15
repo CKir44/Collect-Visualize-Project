@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates the end-to-end process of collecting, processing, and visualizing system data. It is designed as a practical exercise in Python programming, data analytics, and visualization using Power BI.
+Only steps 2 and 3 of this project are demonstrated, focusing on the collection and visualization aspects. The remote penetration test utilizing Hydra is not included for ethical purposes. 
 
 ## Features
 ### Data Collection
